@@ -1,0 +1,12 @@
+Installation of Python
+Download Anaconda
+https://www.anaconda.com/products/distribution
+
+
+Installation steps for postgresql
+https://www.guru99.com/download-install-postgresql.html
+https://www.postgresql.org/download/windows/
+
+
+Form link
+https://docs.google.com/spreadsheets/d/1rfmUhMPmC8pSsJ9JLT4-gVIwhYG4A70WXmdAwbvmOtg/edit#gid=0

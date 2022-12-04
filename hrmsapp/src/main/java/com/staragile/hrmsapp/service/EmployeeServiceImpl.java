@@ -36,7 +36,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 			empl.setEmpName(employee.getEmpName());
 			empl.setSalary(employee.getSalary());
 			empl.setDateOfBirth(employee.getDateOfBirth());
-			empl.setAddress(employee.getAddress());
+			//empl.setAddress(employee.getAddress());
 			
 			return empRepo.save(empl);
 		}else {

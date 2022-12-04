@@ -2,6 +2,8 @@ package com.staragile.hrmsapp.data;
 
 import java.time.LocalDate;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -26,5 +28,6 @@ public class Employee {
 	private String empName;
 	private LocalDate dateOfBirth;
 	private Double salary;
-	private Address address;
+	//@Autowired
+	//private Address address;
 }

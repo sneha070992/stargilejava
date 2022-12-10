@@ -1,13 +1,13 @@
-Module 1 : Application Development Fundamentals	-- Java , Eclipse IDE,Maven
+Module 1 : Application Development Fundamentals	-- Java , Eclipse IDE,Maven,Tomcat
 Module 5 : Managing Source Code – Git and GitHub -- Gitbash	
 Module 6 : Understanding and Using Build Tools --- Maven
-Module 3 : Linux Fundamentals 
-Module 2 : Structure Query Language (SQL)	
+Module 3 : Linux Fundamentals -- Any ubuntu version os 
+Module 2 : Structure Query Language (SQL) --- Postgresql	
 Module 7 : Continuous Testing with Selenium
 Module 4 : DevOps Overview
 Module 8 : Continuous Integration Using Jenkins	
-Module 11 : Containerization, Docker, and Docker Hub
-Module 12 : Container Orchestration Tool : Kubernetes
+Module 11 : Containerization, Docker, and Docker Hub -- Docker Desktop
+Module 12 : Container Orchestration Tool : Kubernetes -- minikube or kubectl
 Module 10 : Configuration Automation using Ansible
 Module 14 : DevOps on Cloud ( AWS)
 Module 2 : AWS Fundamentals		

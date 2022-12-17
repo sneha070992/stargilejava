@@ -29,3 +29,7 @@ $git push origin master
 
 Then verify on github.com inside gitlearning repo that our changes from local repo is present on remote repo or not
 
+I added a new file in a remote repo in a master branch
+Then I want to take update in local repo
+$ git pull origin master
+

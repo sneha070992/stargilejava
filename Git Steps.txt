@@ -1,0 +1,31 @@
+Open the git bash
+Go to the driectory where you want create local repository
+Create local repository or a directory which will act as local repo
+$ mkdir gitlearning
+$ cd gitlearning
+
+Initialize the gitlearning directory 
+$git init
+
+Open an explorer create few files to be added in local repository
+Now on git bash execute below commad to add all the files in the staging
+$ git add . 
+
+Now commit the files in the git repo
+$ git commit -m "First commit"
+
+Now create a github account 
+Create a repository on github with same name in this example gitlearning
+We can make above repository public or private
+Copy the repo link 
+Again on gitbash excute
+$git remote add origin https://github.com/prabhat1510/gitlearning.git
+
+Verify the links
+$ git remote -v
+
+Then push
+$git push origin master
+
+Then verify on github.com inside gitlearning repo that our changes from local repo is present on remote repo or not
+

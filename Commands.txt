@@ -1,0 +1,97 @@
+sudo yum install java-17-openjdk-devel
+java --version
+sudo yum install maven
+mvn --version
+sudo yum install git
+git --version
+
+
+
+
+
+
+[ec2-user@ip-172-31-39-108 hrmsapp]$ history
+    1  who
+    2  which
+    3  which --version
+    4  exit
+    5  history
+    6  who
+    7  which --version
+    8  ls
+    9  pwd
+   10  man
+   11  man ls
+   12  man pwd
+   13  man who
+   14  man which
+   15  man mkdir
+   16  man cd
+   17  ls -a
+   18  pwd
+   19  mkdir mycode
+   20  ls
+   21  ls -l
+   22  cd mycode
+   23  ls
+   24  ls -l
+   25  vi abc.txt
+   26  ls
+   27  vi hello.txt
+   28  ls
+   29  git --version
+   30  mvn --version
+   31  java --version
+   32  docker --version
+   33  printenv
+   34  exit
+   35  java --version
+   36  sudo yum install maven
+   37  mvn --version
+   38  sudo yum install git
+   39  git --version
+   40  git config --global user.name "prabhat1510"
+   41  git config --global user.email "prabhatc@gmail.com"
+   42  ls
+   43  cd mycode/
+   44  git clone https://github.com/prabhat1510/stargilejava.git
+   45  ls
+   46  cd stargilejava/
+   47  LS
+   48  ls
+   49  cd hrmsapp/
+   50  cls
+   51  clear
+   52  ls
+   53  ls -l
+   54  mvn clean install
+   55  vi pom.xml
+   56  mvn clean install
+   57  ls
+   58  mvn clean
+   59  ls
+   60  mvn install
+   61  vi pom.xml
+   62  printenv
+   63  ls
+   64  mvn clean
+   65  ls
+   66  cd bin
+   67  ls
+   68  cd src
+   69  ls
+   70  cd main
+   71  ls
+   72  cd java
+   73  ls
+   74  cd com/staragile/hrmsapp/
+   75  ls
+   76  rm -rf
+   77  ls
+   78  rm HrmsappApplication.class
+   79  ls
+   80  cd ~
+   81  cd mycode/stargilejava/hrmsapp/
+   82  ls
+   83  mvn install
+   84  history

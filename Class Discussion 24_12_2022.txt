@@ -1,0 +1,38 @@
+Application developed using Java or .Net or Python
+1. We want to deploy it using container
+   First build an image of our application using Docker
+   Push this image in the imgae repository(i.e. dockerhub.com)
+   We have decided to deploy above application on AWS cloud infrastructure
+   We will use AWS ECR and AWS ECS or AWS EKS   		
+	
+--- On demand provising of services or infrastruture
+--- Secure environment
+--- Cost as per usage 
+--- Monitioring and Alerting
+--- Time to deployment is less
+--- When load on your application is more we will provision additional infrastructure or services as needed 
+
+
+
+2. We want to run it without containers
+   I will buy a server (hardware machine - from IBM,HP,Dell etc)
+   I will install OS(Windows or Linux )
+   Install Git
+   Install Softwares (maven, java,python etc)
+   Using git we will download the code this machine
+   Compile and package it using maven tool
+   Jar or War or EAR is created
+   
+   We will execute the jar file using the java command
+   I will buy a separate server  for Database (hardware machine - from IBM,HP,Dell etc)
+   I will install OS(Windows or Linux )
+   I will install DB server( for eg Oracle or Mysql or MongoDB)
+   Everything is done 
+   Start the application 
+
+	Disadvantages of Step 2
+	-- High Cost
+	-- Time to market is high
+	-- Time to go on production is higher
+	-- Not scalable
+	-- 

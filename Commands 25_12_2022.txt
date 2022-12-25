@@ -1,0 +1,171 @@
+  1  who
+    2  which
+    3  which --version
+    4  exit
+    5  history
+    6  who
+    7  which --version
+    8  ls
+    9  pwd
+   10  man
+   11  man ls
+   12  man pwd
+   13  man who
+   14  man which
+   15  man mkdir
+   16  man cd
+   17  ls -a
+   18  pwd
+   19  mkdir mycode
+   20  ls
+   21  ls -l
+   22  cd mycode
+   23  ls
+   24  ls -l
+   25  vi abc.txt
+   26  ls
+   27  vi hello.txt
+   28  ls
+   29  git --version
+   30  mvn --version
+   31  java --version
+   32  docker --version
+   33  printenv
+   34  exit
+   35  sudo yum install java-17-openjdk-devel
+   36  java --version
+   37  java --version
+   38  sudo yum install maven
+   39  mvn --version
+   40  sudo yum install git
+   41  git --version
+   42  git config --global user.name "prabhat1510"
+   43  git config --global user.email "prabhatc@gmail.com"
+   44  ls
+   45  cd mycode/
+   46  git clone https://github.com/prabhat1510/stargilejava.git
+   47  ls
+   48  cd stargilejava/
+   49  LS
+   50  ls
+   51  cd hrmsapp/
+   52  cls
+   53  clear
+   54  ls
+   55  ls -l
+   56  mvn clean install
+   57  vi pom.xml
+   58  mvn clean install
+   59  ls
+   60  mvn clean
+   61  ls
+   62  mvn install
+   63  vi pom.xml
+   64  printenv
+   65  ls
+   66  mvn clean
+   67  ls
+   68  cd bin
+   69  ls
+   70  cd src
+   71  ls
+   72  cd main
+   73  ls
+   74  cd java
+   75  ls
+   76  cd com/staragile/hrmsapp/
+   77  ls
+   78  rm -rf
+   79  ls
+   80  rm HrmsappApplication.class
+   81  ls
+   82  cd ~
+   83  cd mycode/stargilejava/hrmsapp/
+   84  ls
+   85  mvn install
+   86  history
+   87  java --version
+   88  mvn --version
+   89  git --version
+   90  ls
+   91  cd mycode
+   92  ls
+   93  cd stargilejava/
+   94  ls
+   95  cd hrmsapp/
+   96  ls
+   97  cls
+   98  clear
+   99  ls
+  100  mvn clean
+  101  clear
+  102  ls
+  103  cd bin
+  104  ls
+  105  cd ..
+  106  cls
+  107  clear
+  108  rm -rf bin
+  109  ls
+  110  clear
+  111  mvn clean install
+  112  java --version
+  113  mvn --version
+  114  ls
+  115  vi pom.xml
+  116  mvn clean install
+  117  git pull
+  118  ls
+  119  cd ..
+  120  git pull
+  121  cd hrmsapp/
+  122  ls
+  123  mvn clean
+  124  mvn install
+  125  vi pom.xml
+  126  clear
+  127  java --version
+  128  mvn --version
+  129  history
+  130  java --version
+  131  mvn --version
+  132  cd /usr/lib/jvm
+  133  ls
+  134  cd java-17-openjdk-17.0.5.0.8-2.el9_0.x86_64/
+  135  pwd
+  136  ls
+  137  pwd
+  138  export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-17.0.5.0.8-2.el9_0.x86_64
+  139  echo JAVA_HOME
+  140  echo $JAVA_HOME
+  141  java --version
+  142  mvn --version
+  143  sudo export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-17.0.5.0.8-2.el9_0.x86_64
+  144  export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-17.0.5.0.8-2.el9_0.x86_64
+  145  clear
+  146  pwd
+  147  export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-17.0.5.0.8-2.el9_0.x86_64
+  148  printenv
+  149  echo $JAVA_HOME
+  150  java --version
+  151  ls
+  152  cd ..
+  153  pwd
+  154  ls
+  155  cd jre-17-openjdk-17.0.5.0.8-2.el9_0.x86_64/
+  156  ls
+  157  pwd
+  158  export JRE_HOME=/usr/lib/jvm/jre-17-openjdk-17.0.5.0.8-2.el9_0.x86_64
+  159  echo $JRE_HOME
+  160  java --version
+  161  export PATH=/usr/lib/jvm/java-17-openjdk-17.0.5.0.8-2.el9_0.x86_64/bin:$PATH
+  162  printenv
+  163  java --version
+  164  mvn --version
+  165  export MAVEN_HOME=/usr/share/maven
+  166  export PATH=/usr/share/maven/bin:$PATH
+  167  printenv
+  168  mvn --version
+  169  cd ~
+  170  clear
+  171  history

@@ -6,6 +6,8 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hi");
 		System.out.println("Hello Everyone");
+		System.out.println("Welcome");
+
 		// greetings is a variable of type String (String is a class which is 
 		//referring
 		//to an object whose value is a group of characters)
